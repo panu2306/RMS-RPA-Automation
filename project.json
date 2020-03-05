@@ -3,11 +3,11 @@
   "description": "This will create a RMS PO.",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.8.0-preview]",
-    "UiPath.Mail.Activities": "[1.8.0-preview]",
+    "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.Mail.Activities": "[1.7.2]",
     "UiPath.MicrosoftTxtRecognizer.Activities": "[0.1.6850.37240]",
-    "UiPath.System.Activities": "[19.12.0-preview]",
-    "UiPath.UIAutomation.Activities": "[19.12.0-preview]"
+    "UiPath.System.Activities": "[19.10.1]",
+    "UiPath.UIAutomation.Activities": "[19.11.2]"
   },
   "webServices": [],
   "schemaVersion": "4.0",

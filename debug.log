@@ -3,3 +3,9 @@
 [0211/160937.072:ERROR:process_info.cc(359)] UncheckedAllocate
 [0211/161026.098:ERROR:process_info.cc(359)] UncheckedAllocate
 [0211/161034.338:ERROR:process_info.cc(359)] UncheckedAllocate
+[0217/162314.923:ERROR:process_info.cc(359)] UncheckedAllocate
+[0217/162330.201:ERROR:process_info.cc(359)] UncheckedAllocate
+[0218/211434.832:ERROR:process_info.cc(359)] UncheckedAllocate
+[0218/211434.847:ERROR:process_info.cc(359)] UncheckedAllocate
+[0218/211434.907:ERROR:process_info.cc(359)] UncheckedAllocate
+[0223/220316.460:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\panu\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a4d3eeff-b092-4196-9089-0c4f74848efc.dmp: The process cannot access the file because it is being used by another process. (0x20)
